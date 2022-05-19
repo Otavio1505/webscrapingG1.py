@@ -22,4 +22,4 @@ for noticia in noticias:
 news = pd.DataFrame(lista_noticias, columns=['Noticia', 'Titulo', 'Link'])
 
 news.to_excel('webscrapinG1-excel.xlsx', index=False)
-print(news)
+
