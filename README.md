@@ -2,7 +2,7 @@
 Web Scraping do noticiário G1 
 
 # Sobre o Projeto
-Desenvolvido durante estudos de Web Scraping. Este programa é capaz de fazer uma raspagem de dados dentro do site: https://g1.globo.com/, filtrar Notícia, Título e o Link e gerar um arquivo Excel contendo os dados coletados.
+Desenvolvido durante estudos de Web Scraping. Este programa é capaz de fazer uma raspagem de dados no site: https://g1.globo.com/. Filtrar Título, Manchete e o Link e gerar um arquivo Excel contendo os dados coletados.
 
 # Como Funciona? 
 Para que a construção deste programa seja possível, foi necessário a importação das Bibliotecas: Requests (responsável pelas solicitações HTTP), Bs4 (responsável pela raspagem de dados contidas na URL) e Pandas (responsável pela manipulação dos dados). Desta forma, a raspagem dos dados estará contida dentro de um laço For, para que haja a repetição do processo, tendo assim a coleta geral dos dados bem sucedida. Cada categoria filtrada, ficará armazenada em sua variável correspondente, facilitando a manipualação futura dos dados.
