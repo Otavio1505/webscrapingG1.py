@@ -11,4 +11,4 @@ Após a coleta dos dados, é feito a chamada para a biblioteca Pandas, que será
 
 # Saída gerada
 
-![a](https://user-images.githubusercontent.com/84475339/169376770-2b3ba370-a554-4c1f-a2fe-7a3f04f58916.png)
+![a](https://user-images.githubusercontent.com/84475339/169376947-ca2099e6-65ff-414a-bc72-1abede2ee03e.png)
