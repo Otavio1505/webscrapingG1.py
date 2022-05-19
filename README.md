@@ -11,4 +11,8 @@ Após a coleta dos dados, é feito a chamada para a biblioteca Pandas, que será
 
 # Saída gerada
 
-![a](https://user-images.githubusercontent.com/84475339/169376947-ca2099e6-65ff-414a-bc72-1abede2ee03e.png)
+Conteúdo gerado em Excel pode ser visualizado em: 
+
+
+# Autor
+Otávio Moraes Braga
