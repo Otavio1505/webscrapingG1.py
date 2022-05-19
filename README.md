@@ -11,7 +11,7 @@ Após a coleta dos dados, é feito a chamada para a biblioteca Pandas, que será
 
 # Saída gerada
 
-Conteúdo gerado em Excel pode ser visualizado em: 
+Conteúdo gerado em Excel pode ser visualizado e instalado em: https://github.com/Otavio1505/webscrapingG1.py/blob/main/webscrapinG1-excel.xlsx
 
 
 # Autor
